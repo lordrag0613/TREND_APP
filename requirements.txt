@@ -1,0 +1,9 @@
+pytest
+pandas
+streamlit
+numpy
+matplotlib
+seaborn
+scikit-learn
+beautifulsoup4
+nltk
