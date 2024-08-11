@@ -39,7 +39,7 @@ from nltk.tokenize import word_tokenize
 from bs4 import BeautifulSoup
 import pickle
 
-
+nltk.download('punkt_tab')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('wordnet')
